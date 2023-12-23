@@ -4,7 +4,7 @@ I'm a software engineer based in New Delhi with experience in Java, Flutter, and
 
 ## Current Work
 
-I'm currently working as a developer at ION Group, where I've been for the past year. I work on a range of technologies, including Java, Jenkins, Robot Framework, and more.
+I'm currently working as a developer at ION Group. I work on a range of technologies, including Terraform, AWS, Cloud, Java, Jenkins, Robot Framework, Ansible and more.
 
 ## Open Source Contributions
 
