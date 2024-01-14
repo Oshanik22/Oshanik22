@@ -1,14 +1,10 @@
 # Hello, I'm Oshanik!
 
-I'm a software engineer based in New Delhi with experience in Java, Flutter, and Python. I'm passionate about building high-quality software and exploring new technologies.
+I'm a software engineer based in New Delhi with experience in React Native, Java, Flutter, and Python. I'm passionate about building high-quality software and exploring new technologies.
 
 ## Current Work
 
-I'm currently working as a developer at ION Group. I work on a range of technologies, including Terraform, AWS, Cloud, Java, Jenkins, Robot Framework, Ansible and more.
-
-## Open Source Contributions
-
-I'm just starting out on my open-source journey and would love to contribute to projects that align with my interests and skillset. If you have an exciting project you'd like me to contribute to, don't hesitate to reach out!
+I'm currently working as a developer at ION Group, working on the lastest and greatest tech in the FinTech industry !
 
 ## About Me
 
