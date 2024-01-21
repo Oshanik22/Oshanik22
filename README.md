@@ -1,16 +1,6 @@
 # Hello, I'm Oshanik!
 
-I'm a software engineer based in New Delhi with experience in React Native, Java, Flutter, and Python. I'm passionate about building high-quality software and exploring new technologies.
-
-## Current Work
-
-I'm currently working as a developer at ION Group, working on the lastest and greatest tech in the FinTech industry !
-
-## About Me
-
-In my free time, I enjoy playing the guitar, singing, and watching movies. I'm also a big petrol head and love cars. Feel free to connect with me on LinkedIn to chat about anything tech, music, or cars!
-
-## Contact
-
-- Email: oshank22@gmail.com
-- LinkedIn: https://www.linkedin.com/in/oshanik/
+ - I'm a backend engineer based in New Delhi, currently working with Java, Python, Shell scripts, and the Cloud. I've been writing Java since I was in high school.
+ - I'm working on my own little side project called "Opendoor", soon to be launched on the App Store and Google Play Store
+ - I'm learning about the Cloud at the moment
+ - I'm currently on the lookout for backend development roles in Java or Python. I'd especially like to work with startups that are building the next-big-thing in tech, where I can have an impact on the world. If you're hiring, lets chat!
