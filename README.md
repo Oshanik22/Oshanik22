@@ -1,7 +1,21 @@
-# Hello, I'm Oshanik!
+# Hi, I'm Oshanik
 
- - 🧑🏻‍💻 I'm a backend engineer based in New Delhi, currently working with **Java, Python, Shell scripts, and the Cloud**. I've been writing Java since I was in high school.
- - 🚪 I'm working on my own little side project called "Opendoor", soon to be launched on the App Store and Google Play Store
- - 🎭 I built an app that connects Event Managers with people who want to organise an event, check it out - https://github.com/Oshanik22/Eventia-Pro
- - ☁️ I'm learning the Cloud at the moment
- - 🎯 I'm currently on the lookout for backend development roles in Java or Python. I'd especially like to work with startups that are building the next-big-thing in tech, where I can have an impact on the world. If you're hiring, lets chat!
+**Backend Developer | Java & Spring Boot Specialist | Building Scalable Systems**
+
+Welcome to my GitHub! I focus on creating efficient, scalable backend systems and exploring cloud infrastructure. My areas of expertise include:
+
+- **Languages**: Java, Python  
+- **Frameworks**: Spring Boot, Hibernate  
+- **Cloud & Tools**: AWS, Terraform, Docker  
+- **Databases**: PostgreSQL, MongoDB  
+
+## 💻 What You'll Find Here  
+- Projects demonstrating microservices architecture  
+- Backend APIs with Spring Boot  
+- Infrastructure as Code using Terraform  
+- Automation and performance optimization tools  
+
+## 🎸 A Bit About Me  
+Outside of tech, I’m a guitarist and vocalist, performing live and blending my passion for music with creativity in coding. I’m also a car enthusiast and a lifelong learner always exploring new ideas.
+
+Feel free to explore my projects, and let’s collaborate on something amazing! 🚀
